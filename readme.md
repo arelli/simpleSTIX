@@ -854,6 +854,9 @@ There are two STIX 2.1 meta objects, that give extra meaning to groups of other 
 ## STIX Vocabularies
 More information [here](https://docs.oasis-open.org/cti/stix/v1.2.1/stix-v1.2.1-part14-vocabularies.html).
 
+# What do to now
+After reading and understanding most of the above, you will be ready to see and understand the real-life examples that are shown [here](https://oasis-open.github.io/cti-documentation/stix/walkthrough). After that, its you and the [specification](https://docs.oasis-open.org/cti/stix/v2.1/os/stix-v2.1-os.html). Good Luck!
+
 
 
 
